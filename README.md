@@ -8,7 +8,7 @@ In summary, Reddit investors dramatically increased stocks like GameStop (GME) b
 
 The central question behind this case study is determining if there is a correlation between stock prices and Reddit sentiment. 
 
-This includes the level of both individual stocks and the overall market. 
+This includes at both the level of individual stocks and the overall market. 
 
 ## Method and Approach
 * Extract Reddit comments from the Wallstreetbets subreddit using Pushift and Reddit API
